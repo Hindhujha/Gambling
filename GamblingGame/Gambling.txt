@@ -1,0 +1,14 @@
+using system;
+namespace Gamling
+{
+public class program
+{
+ static void Main(string[] args)
+{
+int stake=100,int bet=1;
+Console.WriteLine("GAMBLER STAKE FOR EVERDAY": + stake);
+Console.WriteLine("GAMBLER BET:" + bet);
+}
+}
+} 
+
