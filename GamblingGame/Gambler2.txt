@@ -1,0 +1,25 @@
+using system;
+namespace Gamling
+{
+public class Gambler
+{
+ public void display()
+{
+int stake=100,int bet;
+Console.WriteLine("GAMBLER STAKE FOR EVERDAY": + stake);
+
+
+Random random =new Random();
+bet=random.Next(0,2);
+
+if(bet==1)
+{
+Console.WriteLine("GAMBLER WIN 1 DOLLAR");
+}
+else
+{
+Console.WriteLine("GAMBLER LOSS 1 DOLLAR");
+}
+} 
+}
+}
