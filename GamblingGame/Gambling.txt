@@ -1,7 +1,7 @@
 using system;
 namespace Gamling
 {
-public class program
+public class Program
 {
  static void Main(string[] args)
 {
